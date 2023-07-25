@@ -1,5 +1,14 @@
 # DOM Framework
 Dom Framework is my own framework that is based on complete javascript. It uses an online package SystemJS for using import and export statements.
+
+## The DOM Package
+
+  The **DOM** package is a javascript file that contains various tools that will help you with DOM mainpulation when both using the framework or not using the framework.The functions are listed below-
+
+* element() 
+
+## The Framework
+
 Syntax-
 ```javascript
 import DOM from '../essentials/DOM.js';
