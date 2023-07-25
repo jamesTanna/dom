@@ -5,8 +5,21 @@ Dom Framework is my own framework that is based on complete javascript. It uses 
 
   The **DOM** package is a javascript file that contains various tools that will help you with DOM mainpulation when both using the framework or not using the framework.The functions are listed below-
 
-* element() 
-
+* `element(identifier)` - shorter version of `document.querySelector()`. Returns element object.
+  Syntax-
+  ```javascript
+  /*For identifying using Tag Name*/
+  let h1 = element('h1');
+  /*For identifying using Id*/
+  let list = element('#list');
+  /*For identifying using Class Name*/
+  let listItem = element('.list-item');
+  ```
+* `elements()` - shorter form of `document.querySelectorAll()`. Returns a node list, similar to an array.
+  Syntax-
+  ```javascript
+  /*For identifying using Tag Name*/
+  ```
 ## The Framework
 
 Syntax-
