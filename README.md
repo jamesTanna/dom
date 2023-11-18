@@ -4,6 +4,8 @@
 
 This JavaScript library, named `DOM`, provides a set of helper functions for common tasks related to Document Object Model (DOM) manipulation. These functions aim to simplify and streamline the process of working with HTML elements.
 
+***Thanks to openAI and Chat GPT for improving my code and generating this documentation.***
+
 ## Functions
 
 ### Selector Functions
@@ -84,4 +86,3 @@ import DOM from 'dom-package';
 const myElement = DOM.getElement('#myElement');
 DOM.hideElement(myElement);
 ```
-***Thanks to openAI and Chat GPT for improving my code and generating this documentation.***
