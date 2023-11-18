@@ -1,0 +1,19 @@
+{
+  "name": "dom-package",
+  "version": "2.0.2",
+  "description": "An easy to use package to minnify the necessity to write long bits of code for dom manipulation",
+  "main": "DOM.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesTanna/dom.git"
+  },
+  "author": "James Tanna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesTanna/dom/issues"
+  },
+  "homepage": "https://github.com/jamesTanna/dom#readme"
+}
