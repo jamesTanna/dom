@@ -84,4 +84,4 @@ import DOM from 'dom-package';
 const myElement = DOM.getElement('#myElement');
 DOM.hideElement(myElement);
 ```
-*** Thanks to openAI and Chat GPT for improving my code and generating this documentation. ***
+***Thanks to openAI and Chat GPT for improving my code and generating this documentation.***
